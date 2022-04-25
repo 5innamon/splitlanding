@@ -74,7 +74,7 @@ h1{
 
 .split.left{
 	left: 0;
-	background: url('ps-2.jpeg');
+	background: url('https://paulding.instructure.com/courses/200677/files/16850317/preview');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -89,7 +89,7 @@ h1{
 
 .split.right{
 	right: 0;
-	background: url("xbox-2.jpeg");
+	background: url("https://paulding.instructure.com/courses/200677/files/16850319/preview");
 	background-repeat: no-repeat;
 	background-size: cover; 
 }
